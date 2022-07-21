@@ -8,7 +8,7 @@ import java.util.List;
 // YT: https://www.youtube.com/watch?v=M65xBewcqcI&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=8
 
 // Brute force: my solution: TC: O(M x N), SC: O(M + N)O(M+N).
-public class set_matrix_zeros {
+class MySolution_matZeros {
     public static void main(String[] args) {
         int[][] matrix = {
                 {1, 1, 1},
